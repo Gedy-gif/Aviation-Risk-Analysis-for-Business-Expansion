@@ -1,4 +1,16 @@
-#Business Understanding
+# Business Understanding
+The Aviation industry presents complex risks that require data driven insights before decision making.
+The analysis leverages on the National Transportation Safety Board's Aviation data set(1962-2023) to evaluate risk patterns and guide on recommendations in the Aviation sector.
+Parameters included are Weather conditions, Phase of flight, Type of Aircrafts, Accidents, engine models and aircraft make.
+
+#Data Processing
+I did data pre-processing, Cleaning and manipulation before comprehensive data analysis. This helped in drawing comprehensive insights and recommendations on how to handle possible risks and to help in avoiding them.
+The data was obtained from Kaggle that was provided by National Transport Safety Board Aviation data 1962-2023. 
+The data was loaded into Jupiter file, cleaned column names,fixed date format, removed columns with many missing data, imputed important columns such as weather conditions, accident fatalities and make. Prepared a clean data set and imported it.
+**Source**[**Dataset**](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses)
+
+
+
 
 # Business Goal
 The business aims at:
@@ -7,7 +19,7 @@ This would be helpful to Quantify how factors like weather instrumentation, engi
 
 # 2.Understanding the trends hence need for proper Trend Analysis
 Identify historical patterns in accidents such as  major causes, geographic hotspots to avoid high-risk operational conditions.
-**Source**[**Dataset**](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses)
+
 
 # 3.Obtaining Actionable Recommendations:
 We will Provide evidence-based guidance for selecting low-risk aircraft and optimizing operational protocols.
