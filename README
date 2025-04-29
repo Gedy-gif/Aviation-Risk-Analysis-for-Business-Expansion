@@ -3,7 +3,7 @@ The Aviation industry presents complex risks that require data driven insights b
 The analysis leverages on the National Transportation Safety Board's Aviation data set(1962-2023) to evaluate risk patterns and guide on recommendations in the Aviation sector.
 Parameters included are Weather conditions, Phase of flight, Type of Aircrafts, Accidents, engine models and aircraft make.
 
-#Data Processing
+# Data Processing
 I did data pre-processing, Cleaning and manipulation before comprehensive data analysis. This helped in drawing comprehensive insights and recommendations on how to handle possible risks and to help in avoiding them.
 The data was obtained from Kaggle that was provided by National Transport Safety Board Aviation data 1962-2023. 
 The data was loaded into Jupiter file, cleaned column names,fixed date format, removed columns with many missing data, imputed important columns such as weather conditions, accident fatalities and make. Prepared a clean data set and imported it.
