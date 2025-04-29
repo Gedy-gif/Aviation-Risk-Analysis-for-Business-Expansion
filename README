@@ -7,6 +7,7 @@ This would be helpful to Quantify how factors like weather instrumentation, engi
 
 # 2.Understanding the trends hence need for proper Trend Analysis
 Identify historical patterns in accidents such as  major causes, geographic hotspots to avoid high-risk operational conditions.
+**Source**[**Dataset**](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses)
 
 # 3.Obtaining Actionable Recommendations:
 We will Provide evidence-based guidance for selecting low-risk aircraft and optimizing operational protocols.
@@ -38,6 +39,9 @@ Additionally, training aircraft are naturally prone to higher accident risks due
 All the Models of Cessna are prone to accidents and have the highest number of accidents since 1981. The company needs to be careful when purchasing any model of Cessna. Piper PA-28-140 is also prone to accident and has a higher number of accidents compared to Cessna 50 which has fewer accidents.
 
 Its also noted that most accidents occur during landing, takeoff and issues concerning with cruise. This raises a concern of measures put in place at the airport during landing like visibility of runway, proper direction and capability of the aircrafts to handle the weight and goods they are carrying. 
+The interactive Tableau dashboard is available here:
+[**Dashboard**](https://public.tableau.com/views/TableauVisualProject1/Dashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+
 
 # Key Recommendations
 1. The company should consider purchasing either Fairchild or Zwicker Murray R.The company needs to be careful when purchasing any model of Cessna.
