@@ -7,7 +7,7 @@ Parameters included are Weather conditions, Phase of flight, Type of Aircrafts, 
 I did data pre-processing, Cleaning and manipulation before comprehensive data analysis. This helped in drawing comprehensive insights and recommendations on how to handle possible risks and to help in avoiding them.
 The data was obtained from Kaggle that was provided by National Transport Safety Board Aviation data 1962-2023. 
 The data was loaded into Jupiter file, cleaned column names,fixed date format, removed columns with many missing data, imputed important columns such as weather conditions, accident fatalities and make. Prepared a clean data set and imported it.
-**Source**[**Dataset**](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses)
+**Source:**[**Dataset**](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses)
 
 
 
@@ -52,8 +52,8 @@ All the Models of Cessna are prone to accidents and have the highest number of a
 
 Its also noted that most accidents occur during landing, takeoff and issues concerning with cruise. This raises a concern of measures put in place at the airport during landing like visibility of runway, proper direction and capability of the aircrafts to handle the weight and goods they are carrying. 
 The interactive Tableau dashboard is available here:
-**Dashboard**[Tableau](https://public.tableau.com/views/TableauVisualProject1/Dashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
-**Presentation**[Key Findings](https://github.com/Gedy-gif/Aviation-Risk-Analysis-for-Business-Expansion/commit/ae9a61fe127194d964fad09e218a965482cc0cae)
+**Dashboard:**[Tableau](https://public.tableau.com/views/TableauVisualProject1/Dashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+**Presentation:**[Key Findings](https://github.com/Gedy-gif/Aviation-Risk-Analysis-for-Business-Expansion/commit/ae9a61fe127194d964fad09e218a965482cc0cae)
 
 
 # Key Recommendations
